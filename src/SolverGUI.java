@@ -162,7 +162,7 @@ public class SolverGUI{
 			try {
 				ni.gainSolver(ni.getGain(), 0.5);
 				noninvertingComponents.setText("<html>R1: " + ni.getR1() + "<br/>R2: " + ni.getR2() + "</html>");
-				System.out.println("hello there");
+				System.out.println("hello there test test");
 			}
 			catch(Exception f) {
 				
